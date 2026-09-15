@@ -30,4 +30,5 @@ int main(){
 	    printf("\n\nO valor %d nao foi encontrado.", X);
 	}
 	
+	return 0;
 }
