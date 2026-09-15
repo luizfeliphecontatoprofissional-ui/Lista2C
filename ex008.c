@@ -35,4 +35,6 @@ int main(){
 	printf("\n\nMedia: %.2f", media);
 	printf("\n\nO maior numero: %d", maior);
 	printf("\n\nO menor numero: %d", menor);
+	
+	return 0;
 }
