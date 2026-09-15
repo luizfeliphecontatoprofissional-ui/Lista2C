@@ -25,9 +25,9 @@ int main(){
 	}
 	
 	if (achou == 1){
-	    printf("\n\nO valor %d foi encontrado na posicao %d", X, posicao);
+	    printf("\nO valor %d foi encontrado na posicao %d", X, posicao);
 	} else {
-	    printf("\n\nO valor %d nao foi encontrado.", X);
+	    printf("\nO valor %d nao foi encontrado.", X);
 	}
 	
 	return 0;
